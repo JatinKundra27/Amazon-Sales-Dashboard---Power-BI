@@ -112,6 +112,8 @@ A **dynamic "Last Refreshed" timestamp** is included to show when the
 dataset was last updated, helping users trust the recency of the
 insights.
 
+![Last Refreshed](/images/refresh.png)
+
 ------------------------------------------------------------------------
 
 ## DAX Measures Used
